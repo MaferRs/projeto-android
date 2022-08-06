@@ -2,7 +2,8 @@
 Projeto Criado no curso de HTML5 e CSS3 do Curso em Vídeo do Professor Gustavo Guanabara
 
 
-Este projeto foi criado para por em prática todo conteúdo e conhecimento obtido durante o curso.
+Este projeto foi criado para por em prática todo conteúdo e conhecimento obtido durante o segundo módulo do curso.
+
 
 <a href="https://maferrs.github.io/projeto-android/"> Projeto Android 🖖 </a>
 
